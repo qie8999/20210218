@@ -1,0 +1,7 @@
+D:\suyin\20210218\addrTest0218_1\addrTest0218_1\bin\Debug\addrTest0218_1.exe.config
+D:\suyin\20210218\addrTest0218_1\addrTest0218_1\bin\Debug\addrTest0218_1.exe
+D:\suyin\20210218\addrTest0218_1\addrTest0218_1\bin\Debug\addrTest0218_1.pdb
+D:\suyin\20210218\addrTest0218_1\addrTest0218_1\obj\Debug\addrTest0218_1.csprojAssemblyReference.cache
+D:\suyin\20210218\addrTest0218_1\addrTest0218_1\obj\Debug\addrTest0218_1.csproj.CoreCompileInputs.cache
+D:\suyin\20210218\addrTest0218_1\addrTest0218_1\obj\Debug\addrTest0218_1.exe
+D:\suyin\20210218\addrTest0218_1\addrTest0218_1\obj\Debug\addrTest0218_1.pdb

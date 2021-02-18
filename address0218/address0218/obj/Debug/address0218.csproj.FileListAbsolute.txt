@@ -1,0 +1,2 @@
+D:\suyin\20210218\address0218\address0218\obj\Debug\address0218.csprojAssemblyReference.cache
+D:\suyin\20210218\address0218\address0218\obj\Debug\address0218.csproj.CoreCompileInputs.cache

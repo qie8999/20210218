@@ -1,0 +1,7 @@
+D:\suyin\20210218\address20210218\address20210218\obj\Debug\address20210218.csproj.CoreCompileInputs.cache
+D:\suyin\20210218\address20210218\address20210218\bin\Debug\address20210218.exe.config
+D:\suyin\20210218\address20210218\address20210218\bin\Debug\address20210218.exe
+D:\suyin\20210218\address20210218\address20210218\bin\Debug\address20210218.pdb
+D:\suyin\20210218\address20210218\address20210218\obj\Debug\address20210218.exe
+D:\suyin\20210218\address20210218\address20210218\obj\Debug\address20210218.pdb
+D:\suyin\20210218\address20210218\address20210218\obj\Debug\address20210218.csprojAssemblyReference.cache
