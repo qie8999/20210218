@@ -143,7 +143,19 @@ namespace address20210218
                 }
 
             }
-            
+            int cnt = 0;
+            while(cnt < addrList.Count)
+            {
+                if(name.Equals(addrList[cnt].name))
+                {
+                    addrList.RemoveAt(cnt);
+                }
+                else
+                {
+                    cnt++;
+                }
+            }
+
         }
         static void delItemAll()
         {
